@@ -1,0 +1,14 @@
+PROBLEM ONE.
+STEP 1: Create a variable for the two sets
+STEP 2: Variable to hold result
+STEP 3: Go through the set
+STEP 4: Identify unique item in each of the sets
+STEP 5: Add all unique items and store in unique variable
+STEP 6: Print results.
+
+PROBLEM TWO.
+STEP 1: Create a function called .product
+STEP 2: Pass parameter V1 and V2 into product
+STEP 3: Add V1 and V2 parameter
+STEP 4: Return the sum
+STEP 5: Print results.
